@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.hibernate"
+      label="Hibernate"
+      version="3.6.7"
+      provider-name="JBos  - hibernate.org">
+
+   <description url="http://www.hibernate.org">
+      Hibernate is a powerful, high performance object/relational persistence
+and query service. Hibernate lets you develop persistent classes
+following object-oriented idiom - including association, inheritance,
+polymorphism, composition, and collections. Hibernate allows
+you to express queries in its own portable SQL extension (HQL),
+as well as in native SQL, or with an object-oriented Criteria
+and Example API.
+Unlike many other persistence solutions, Hibernate does not hide
+the power of SQL from you and guarantees that your investment
+in relational technology and knowledge is as valid as always.
+The LGPL open source license allows the use of Hibernate and
+NHibernate in open source and commercial projects.
+   </description>
+
+   <copyright url="http://www.apache.org/licenses/LICENSE-2.0">
+      This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/).
+   </copyright>
+
+   <license url="www.hibernate.org">
+      see included lgpl.txt file.
+   </license>
+
+   <plugin
+         id="org.hibernate"
+         download-size="0"
+         install-size="0"
+         version="3.6.7"/>
+
+</feature>
