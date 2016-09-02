@@ -9,9 +9,6 @@
    <feature url="features/com.db4o_8.0.249.16098.jar" id="com.db4o" version="8.0.249.16098">
       <category name="org.eclipse.emf.teneo.updatesite"/>
    </feature>
-   <feature url="features/com.microsoft.sqlserver.jdbc_4.0.2206.100.jar" id="com.microsoft.sqlserver.jdbc" version="4.0.2206.100">
-      <category name="org.eclipse.emf.teneo.updatesite"/>
-   </feature>
    <feature url="features/org.dom4j_1.6.1.jar" id="org.dom4j" version="1.6.1">
       <category name="org.eclipse.emf.teneo.updatesite"/>
    </feature>
