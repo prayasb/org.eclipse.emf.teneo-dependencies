@@ -2,7 +2,7 @@
 <feature
       id="com.db4o"
       label="DB4O Driver"
-      version="8.0.249.16098"
+      version="7.4.155"
       provider-name="Net4j and CDO Plus">
 
    <description url="http://www.db4o.com/about/productinformation">
@@ -474,11 +474,12 @@ The GNU General Public License does not permit incorporating your program into p
 
 Legal advisors do not agree on the exact definition of what actions triggers your software to become available under the GPL as well. To avoid ambiguity, Versant provides an explicit GPL Interpretation Policy which is in line with the Free Software Foundation&apos;s (FSF) stance. If you license the db4o software under the GPL, you must follow this interpretation.
    </license>
+
    <plugin
          id="com.db4o"
          download-size="0"
          install-size="0"
-         version="8.0.249.16098"
+         version="7.4.155"
          unpack="false"/>
 
 </feature>

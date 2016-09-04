@@ -28,4 +28,4 @@ Export-Package: org.postgresql;version="9.2.1003",
  org.postgresql.translation;version="9.2.1003",
  org.postgresql.util;version="9.2.1003",
  org.postgresql.xa;version="9.2.1003"
-Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6

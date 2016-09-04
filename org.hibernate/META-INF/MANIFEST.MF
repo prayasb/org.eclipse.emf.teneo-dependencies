@@ -5,6 +5,8 @@ Bundle-SymbolicName: org.hibernate
 Bundle-Version: 3.6.7
 Bundle-ClassPath: antlr-2.7.6.jar,
  c3p0-0.9.1.jar,
+ cglib-2.2.jar,
+ commons-collections-3.1.jar,
  dom4j-1.6.1.jar,
  ehcache-core-2.4.3.jar,
  hibernate-c3p0-3.6.7.Final.jar,
@@ -13,9 +15,14 @@ Bundle-ClassPath: antlr-2.7.6.jar,
  hibernate-ehcache-3.6.7.Final.jar,
  hibernate-entitymanager-3.6.7.Final.jar,
  hibernate-jpa-2.0-api-1.0.1.Final.jar,
- javassist-3.12.0-GA.jar,
+ infinispan-core-4.2.1.CR1.jar,
+ javassist-3.12.0.GA.jar,
  jbosscache-core-3.2.1.GA.jar,
- slf4j-api-1.6.1.jar
+ jta-1.1.jar,
+ oscache-2.1.jar,
+ proxool-0.8.3.jar,
+ slf4j-api-1.6.1.jar,
+ swarmcache-1.0RC2.jar
 Bundle-Vendor: JBoss - hibernate.org
 Export-Package: antlr,
  antlr.ASdebug,
@@ -450,6 +457,6 @@ Export-Package: antlr,
  org.slf4j.spi,
  schema,
  xslt
-Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
 Eclipse-BuddyPolicy: dependent
 DynamicImport-Package: *

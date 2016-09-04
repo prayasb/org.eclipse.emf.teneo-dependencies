@@ -19,4 +19,4 @@ Export-Package: org.dom4j;version="1.6.1",
  org.dom4j.util;version="1.6.1",
  org.dom4j.xpath;version="1.6.1",
  org.dom4j.xpp;version="1.6.1"
-Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6

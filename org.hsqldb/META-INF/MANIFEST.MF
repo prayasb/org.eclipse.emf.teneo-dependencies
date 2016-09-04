@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: Hsqldb
 Bundle-SymbolicName: org.hsqldb
 Bundle-Version: 1.8.0.10
-Bundle-ClassPath: hsqldb-1.8.0.10.jar
+Bundle-ClassPath: org.hsqldb-1.8.0.10.jar
 Bundle-Vendor: org.hsqldb
 Export-Package: .,
  org.hsqldb;version="1.8.0.10",
@@ -20,4 +20,4 @@ Export-Package: .,
  org.hsqldb.types;version="1.8.0.10",
  org.hsqldb.util;version="1.8.0.10",
  org.hsqldb.util.sqltool
-Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
